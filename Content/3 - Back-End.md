@@ -1,0 +1,44 @@
+# BACK-END
+- PHP
+    - ESCRITA
+        - ECHO
+        - VAR_DUMP
+    - VARIAVEIS
+        - TIPOS
+            - STRING
+            - INT
+            - FLOAT
+            - BOOLEAN
+            - ARRAY
+            - OBJECT
+    - OPERADORES
+    - ARRAYS
+        - ADICIONAR
+        - REMOVER
+        - ALTERAR
+        - PEGAR
+        - IMPLODE
+        - ARRAY_SEARCH
+        - IN_ARRAY
+        - LOOPS
+            - ARRAY_MAP
+            - ARRAY_REDUCE
+    - LAÇOS
+        - FOR
+        - FOREACH
+        - WHILE
+    - OBJETOS
+        - CLASSES
+        - ATRIBUTOS
+        - METODOS
+
+- POSTGRES
+    - INSERT
+    - UPDATE
+    - DELETE
+    - SELECT
+    - WHERE
+    - LIMIT/OFFSET
+    - ORDER BY
+    - GROUP BY
+    - JOINS

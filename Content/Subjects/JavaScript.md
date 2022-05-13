@@ -1,0 +1,41 @@
+# JavaScript
+
+- [Documentação Oficial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Tutorial W3School](https://www.w3schools.com/js/default.asp)
+
+## Tópicos Importantes
+
+- [CONSOLE](https://developer.mozilla.org/en-US/docs/Web/API/console)
+    - [LOG](https://developer.mozilla.org/en-US/docs/Web/API/console/log)
+    - [CLEAR](https://developer.mozilla.org/en-US/docs/Web/API/console/clear)
+- [VARIABLES](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+    - [NUMBER](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
+    - [STRING](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+    - [BOOLEAN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
+    - [ARRAY](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+    - [OBJECT](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+- [OPERATORS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
+- [ARRAYS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+    - [PUSH](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push)
+    - [UNSHIFT](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)
+    - [POP](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop)
+    - [SHIFT](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
+    - [FIND](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find)
+    - [FINDINDEX](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/findIndex)
+    - [INCLUDES](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes)
+    - [JOIN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+    - [CONCAT](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
+    - [REVERSE](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
+    - LOOPS
+        - [FOR IN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
+        - [WHILE](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+        - [MAP](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+        - [FOREACH](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/foreach)
+        - [REDUCE](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
+- [OBJECT](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+    - [LITERAL](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
+    - [CLASSES](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+    - LOOPS
+        - [FOR OF](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+- [JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+- [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
