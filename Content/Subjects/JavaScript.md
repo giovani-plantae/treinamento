@@ -1,6 +1,6 @@
 # JavaScript
 
-- [Documentação Oficial](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [Documentação Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Tutorial W3School](https://www.w3schools.com/js/default.asp)
 
 ## Tópicos Importantes

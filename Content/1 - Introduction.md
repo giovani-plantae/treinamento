@@ -1,5 +1,0 @@
-# INTRODUÇÃO
-
-- AMBIENTE
-- VSCODE
-- GIT
