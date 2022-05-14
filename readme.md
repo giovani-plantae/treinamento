@@ -20,8 +20,9 @@ O intuito desse material é apresentar as tecnologias e ferramentas usadas pela 
         - [Ego Chaser](./Tests/Front-End/Layouts/Ego-Chaser/readme.md)
         - [Legendary](./Tests/Front-End/Layouts/Legendary/readme.md)
         - [Plantae Helper](./Tests/Front-End/Layouts/Plantae-Helper/readme.md)
-    - Lógica em JavaScript
+    - [Lógica em JavaScript](./Tests/Front-End/Logic/JavaScript.md)
     - Algorítimos em JavaScript
+        - [Tamagotchi](./Tests/Front-End/Algorithms/Tamagotchi.md)
     - Algorítimos em jQuery
 - Back End
     - Lógica em PHP
