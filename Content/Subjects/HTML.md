@@ -1,13 +1,13 @@
 # HTML
 
 - [Documentação Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [tutorial W3school](https://www.w3schools.com/html/default.asp)
+- [Tutorial W3school](https://www.w3schools.com/html/default.asp)
 
 ## Tópicos Importantes
 
 - [Elementos](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
     - Textos
-        - [Titulos](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
+        - [Títulos](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/Heading_Elements)
         - [Parágrafos](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
         - [Negrito](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/b)
         - [Itálico](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)

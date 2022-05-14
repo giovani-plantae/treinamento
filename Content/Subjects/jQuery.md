@@ -5,31 +5,31 @@
 
 ## Tópicos Importantes
 
-- [SELECTORS](https://api.jquery.com/category/selectors/)
-- [EVENTS](https://api.jquery.com/category/events/)
-    - [ON](https://api.jquery.com/on/)
-    - [ONE](https://api.jquery.com/one/)
-    - [OFF](https://api.jquery.com/off/)
-    - [TRIGGER](https://api.jquery.com/trigger/)
-- GET/SET ELEMENTS
-    - [TEXT](https://api.jquery.com/text/)
-    - [VAL](https://api.jquery.com/val/)
-    - [HTML](https://api.jquery.com/html/)
-- EFFECTS
-    - [HIDE](https://api.jquery.com/hide/)
-    - [SHOW](https://api.jquery.com/show/)
-    - [FADEIN](https://api.jquery.com/fadein/)
-    - [FADEOUT](https://api.jquery.com/fadeout/)
-- CLASSES
-    - [ADDCLASS](https://api.jquery.com/addclass/)
-    - [REMOVECLASS](https://api.jquery.com/removeclass/)
-    - [TOGGLECLASS](https://api.jquery.com/toggleclass/)
-    - [CSS](https://api.jquery.com/css/)
-- ADD ELEMENTS
-    - [APPEND](https://api.jquery.com/append/)
-    - [PREPEND](https://api.jquery.com/prepend/)
-    - [AFTER](https://api.jquery.com/after/)
-    - [BEFORE](https://api.jquery.com/before/)
-- REMOVE ELEMENTS
-    - [REMOVE](https://api.jquery.com/remove/)
-    - [EMPTY](https://api.jquery.com/empty/)
+- [Seletores](https://api.jquery.com/category/selectors/)
+- [Eventos](https://api.jquery.com/category/events/)
+    - [.on](https://api.jquery.com/on/)
+    - [.one](https://api.jquery.com/one/)
+    - [.off](https://api.jquery.com/off/)
+    - [.trigger](https://api.jquery.com/trigger/)
+- Pegar ou alterar elementos
+    - [.text](https://api.jquery.com/text/)
+    - [.val](https://api.jquery.com/val/)
+    - [.html](https://api.jquery.com/html/)
+- Efeitos
+    - [.hide](https://api.jquery.com/hide/)
+    - [.show](https://api.jquery.com/show/)
+    - [.fadeIn](https://api.jquery.com/fadein/)
+    - [.fadeOut](https://api.jquery.com/fadeout/)
+- Classes
+    - [.addClass](https://api.jquery.com/addclass/)
+    - [.removeClass](https://api.jquery.com/removeclass/)
+    - [.toggleClass](https://api.jquery.com/toggleclass/)
+    - [.css](https://api.jquery.com/css/)
+- Adicionar elementos
+    - [.append](https://api.jquery.com/append/)
+    - [.prepend](https://api.jquery.com/prepend/)
+    - [.after](https://api.jquery.com/after/)
+    - [.before](https://api.jquery.com/before/)
+- Remover elementos
+    - [.remove](https://api.jquery.com/remove/)
+    - [.empty](https://api.jquery.com/empty/)

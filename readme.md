@@ -2,7 +2,7 @@
 
 Cronograma de treinamento e nivelamento para novos membros da equipe de desenvolvimento.
 
-O intúito desse material é apresentar as tecnologias e ferramentas usadas pela equipe, fornecer acesso rápido à documentação e tutoriais e depois testar o conhecimento.
+O intuito desse material é apresentar as tecnologias e ferramentas usadas pela equipe, fornecer acesso rápido à documentação e tutoriais e depois testar o conhecimento.
 
 ## Conteúdo
 
