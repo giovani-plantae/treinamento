@@ -1,12 +1,14 @@
-# ANIMAL VIRTUAL / TAMAGOTCHI
+# TAMAGOTCHI / ANIMAL VIRTUAL 
 
-CRIE UMA CLASSE QUE REPRESENTA UM TAMAGOTCHI
-FAÇA UM ALGORITMO DE FOME, A CADA X TEMPO DEVE ALIMENTAR O ANIMAL
-FAÇA UM ALGORITMO DE SEDE, A CADA X TEMPO DEVE HIDRATAR O ANIMAL
-FAÇA UM ALGORITMO DE SONO, O ANIMAL DORME QUANDO A ENERGIA ZERAR E ACORDA QUANDO A ENERGIA ESTIVER COMPLETAMENTE RECUPERADA
-FAÇA UM ALGORITMO DE IDADE, O ANIMAL DEPOIS DE X TEMPO DEVE MORRER DE VELHO
-O ANIMAL DEVE AVISAR QUE ESTÁ COM FOME, SEDE OU SONO
-ELE DEVE TER O MÉTODO ALIMENTAR, HIDRATAR, DORMIR, ACORDAR
-ENQUANTO O ANIMAL DORME ELE NÃO PODE SER ALIMENTADO E NEM HIDRATADO
-DEPOIS QUE ESTÁ MORTO NÃO PODE TER NENHUMA INTERAÇÃO
-SE ELE ESTÁ DORMINDO E SENTIR FOME OU SEDE, ELE DEVE ACORDAR E AVISAR QUE ESTÁ COM FOME OU SEDE (ANTES DE MORRER)
+Crie uma classe onde poderá ser instanciado um ou mais tamagotchis (animais virtuais), contendo as funções básicas: comer, beber água, brincar, dormir, envelhecer, e morrer. O usuário também poderá pausar/continuar e reiniciar.
+
+O tamagotchi irá rodar no console, não terá interface gráfica e suas interações serão feitas via comando, a comunicação e alertas devem ser feitos por `console.log` ou `console.alert`.
+
+
+Regras:
+- A classe do tamagotchi deve possuir métodos fluentes;
+- O tamagotchi deve avisar quando estiver com fome, sede ou com vontade de brincar (sem spam);
+- O tamagotchi deve acordar quando sentir alguma necessidade (antes de morrer);
+- O tamagotchi não deve dormir enquanto sente alguma necessidade;
+- Enquanto o tamagotchi estiver dormindo ele não pode comer, beber água ou brincar;
+- Depois de morto não deve haver mais interações, apenas restart;
