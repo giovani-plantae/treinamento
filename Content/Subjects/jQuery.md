@@ -1,4 +1,4 @@
-# JQUERY
+# jQuery
 
 - [Documentação Oficial](https://api.jquery.com/)
 - [Tutorial W3School](https://www.w3schools.com/jquery/default.asp)

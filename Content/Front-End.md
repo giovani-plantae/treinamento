@@ -1,4 +1,4 @@
-# FRONT-END
+# Front-End
 
 - [HTML](./Subjects/HTML.md)
 - [CSS](./Subjects/CSS.md)

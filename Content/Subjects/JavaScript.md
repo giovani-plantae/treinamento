@@ -9,9 +9,9 @@
     - [Log](https://developer.mozilla.org/en-US/docs/Web/API/console/log)
     - [Clear](https://developer.mozilla.org/en-US/docs/Web/API/console/clear)
 - [Variáveis](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)
+    - [Boolean](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
     - [Number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
     - [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-    - [Boolean](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
     - [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
     - [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
 - [Operadores](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators)
@@ -26,6 +26,7 @@
     - [Juntar em formato de string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
     - [Concatenar](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
     - [Inverter Ordenação](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reverse)
+    - [Ordenar](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort)
     - Loops
         - [For In](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in)
         - [While](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
