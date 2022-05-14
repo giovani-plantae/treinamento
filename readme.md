@@ -23,6 +23,7 @@ O intuito desse material é apresentar as tecnologias e ferramentas usadas pela 
     - [Lógica em JavaScript](./Tests/Front-End/Logic/JavaScript.md)
     - Algorítimos em JavaScript
         - [Tamagotchi](./Tests/Front-End/Algorithms/Tamagotchi.md)
+        - [Carteira](./Tests/Front-End/Algorithms/Carteira.md)
     - Algorítimos em jQuery
 - Back End
     - Lógica em PHP
