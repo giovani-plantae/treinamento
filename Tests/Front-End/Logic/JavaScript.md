@@ -255,12 +255,12 @@ Faça uma função chamada `isLengthLowerThan10` que recebe um parâmetro chamad
 'test-greater' => false
 ```
  
-#### isLengthBetween5and10
+#### isLengthBetween10and20
 Faça uma função chamada `isLengthBetween10and20` que recebe um parâmetro chamado `val` do tipo `string` e retorna um `boolean` indicando se o comprimento da string é maior que 10 e menor que 20;
 ```js
-'testes'       => true
+'testes'       => false
 'test-lower'   => false
-'test-greater' => false
+'test-greater' => true
 ```
  
 #### concatString
