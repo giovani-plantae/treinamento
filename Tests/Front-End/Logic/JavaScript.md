@@ -174,31 +174,31 @@ Faça uma função chamada `powNumbers` que recebe dois parâmetros chamados `ba
 #### halfNumber
 Faça uma função chamada `halfNumber` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` com a metade do valor do parâmetro;
 ```js
-10           => 5
+10  => 5
 ```
  
 #### doubleNumber
 Faça uma função chamada `doubleNumber` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` com o dobro do valor do parâmetro;
 ```js
-2            => 4
+2   => 4
 ```
  
 #### 50PctNumber
 Faça uma função chamada `50PctNumber` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` equivalente a 50% do valor do parâmetro;
 ```js
-8            => 4
+8   => 4
 ```
  
 #### increaseNumberBy10Pct
 Faça uma função chamada `increaseNumberBy10Pct` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` equivalente ao valor do parâmetro + 10%;
 ```js
-10           => 11
+10  => 11
 ```
  
 #### decreaseNumberBy10Pct
 Faça uma função chamada `decreaseNumberBy10Pct` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` equivalente ao valor do parâmetro - 10%;
 ```js
-10           => 9
+10  => 9
 ```
  
 #### biggestNumber
