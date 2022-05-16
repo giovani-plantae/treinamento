@@ -174,31 +174,31 @@ Faça uma função chamada `powNumbers` que recebe dois parâmetros chamados `ba
 #### halfNumber
 Faça uma função chamada `halfNumber` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` com a metade do valor do parâmetro;
 ```js
-10     => 5
+10           => 5
 ```
  
 #### doubleNumber
 Faça uma função chamada `doubleNumber` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` com o dobro do valor do parâmetro;
 ```js
-2     => 4
+2            => 4
 ```
  
 #### 50PctNumber
 Faça uma função chamada `50PctNumber` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` equivalente a 50% do valor do parâmetro;
 ```js
-8     => 4
+8            => 4
 ```
  
 #### increaseNumberBy10Pct
 Faça uma função chamada `increaseNumberBy10Pct` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` equivalente ao valor do parâmetro + 10%;
 ```js
-10     => 11
+10           => 11
 ```
  
 #### decreaseNumberBy10Pct
 Faça uma função chamada `decreaseNumberBy10Pct` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` equivalente ao valor do parâmetro - 10%;
 ```js
-10     => 9
+10           => 9
 ```
  
 #### biggestNumber
@@ -216,7 +216,7 @@ Faça uma função chamada `smallestNumber` que recebe dois parâmetros chamados
 #### biggestNumberFrom3
 Faça uma função chamada `biggestNumberFrom3` que recebe três parâmetros chamados `val1`, `val2` e `val3` do tipo `number` e retorna um `number` que é o parâmetro de maior valor;
 ```js
-(10, 15, 20)     => 20
+(10, 15, 20) => 20
 ```
  
 #### isPrime
@@ -266,8 +266,8 @@ Faça uma função chamada `isLengthBetween10and20` que recebe um parâmetro cha
 #### concatString
 Faça uma função chamada `concatString` que recebe dois parâmetros chamados `val1` e `val2` do tipo `string` e retorna uma `string` com a concatenação dos dois parâmetros separados por um espaço;
 ```js
-('test', 'ok') => 'test ok';
-('test', ' ') => 'test  ';
+('test', 'ok')  => 'test ok';
+('test', ' ')   => 'test  ';
 ```
  
 #### countVowels
@@ -373,7 +373,7 @@ Faça uma função chamada `groupByOddEven` que recebe um parâmetro chamado `li
 ```js
 [1, 2, 3, 4, 5, 6, 7] =>
 {
-    odd: [1, 3, 5, 7]
+    odd: [1, 3, 5, 7],
     even: [2, 4, 6]
 }
 ```
