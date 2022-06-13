@@ -301,7 +301,7 @@ Faça uma função chamada `wordReverse` que recebe um parâmetro chamado `text`
 #### extractNumber
 Faça uma função chamada `extractNumber` que recebe um parâmetro chamado `val` do tipo `string` e retorna um `number` extraindo/eliminando todos os caracteres que não forem numéricos;
 ```js
-'oo'    => null
+'oo'    => NaN
 '57o'   => 57
 ```
  
@@ -395,7 +395,7 @@ Faça uma função chamada `groupByInitials` que recebe um parâmetro chamado `l
 ### OBJECT > DATE
  
 #### currentDate
-Faça uma função chamada `currentDate` que não recebe parâmetros e retorna a data atual no formato: `DD-MM-YYYY`;
+Faça uma função chamada `currentDate` que não recebe parâmetros e retorna a data atual no formato: `DD/MM/YYYY`;
 ```js
 ()  => `24/02/2022`
 ```
