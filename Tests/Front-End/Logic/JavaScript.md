@@ -355,6 +355,7 @@ Faça uma função chamada `arraySum` que recebe um parâmetro chamado `list` do
 ```js
 [1, 3, 4]      => 8
 [3, 'ok', 4]   => 7
+[1, true, 3]   => 4
 ```
  
 #### arrayAvg
@@ -362,6 +363,7 @@ Faça uma função chamada `arrayAvg` que recebe um parâmetro chamado `list` do
 ```js
 [7, 5, 6, 8]    => 6.5
 [18, 'ok', 4]   => 11
+[10, true, 2]   => 6
 ```
  
 #### filterOddNumbers
