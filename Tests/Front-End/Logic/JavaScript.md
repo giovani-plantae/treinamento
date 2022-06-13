@@ -301,8 +301,10 @@ Faça uma função chamada `wordReverse` que recebe um parâmetro chamado `text`
 #### extractNumber
 Faça uma função chamada `extractNumber` que recebe um parâmetro chamado `val` do tipo `string` e retorna um `number` extraindo/eliminando todos os caracteres que não forem numéricos;
 ```js
-'oo'    => NaN
-'57o'   => 57
+'oo'        => NaN
+'57o'       => 57
+'n1.5'      => 1.5
+'n1,5'      => 15
 ```
  
 #### cleanExtraSpaces
