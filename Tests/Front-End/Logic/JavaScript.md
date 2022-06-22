@@ -192,13 +192,19 @@ Faça uma função chamada `number50Pct` que recebe um parâmetro chamado `val` 
 #### increaseNumberBy10Pct
 Faça uma função chamada `increaseNumberBy10Pct` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` equivalente ao valor do parâmetro + 10%;
 ```js
-10  => 11
+10      => 11
+100     => 110
+150     => 165
+200     => 220
 ```
  
 #### decreaseNumberBy10Pct
 Faça uma função chamada `decreaseNumberBy10Pct` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` equivalente ao valor do parâmetro - 10%;
 ```js
-10  => 9
+10      => 9
+100     => 90
+150     => 135
+200     => 180
 ```
  
 #### biggestNumber
