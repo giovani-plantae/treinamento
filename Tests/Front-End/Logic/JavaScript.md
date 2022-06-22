@@ -183,8 +183,8 @@ Faça uma função chamada `doubleNumber` que recebe um parâmetro chamado `val`
 2   => 4
 ```
  
-#### 50PctNumber
-Faça uma função chamada `50PctNumber` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` equivalente a 50% do valor do parâmetro;
+#### number50Pct
+Faça uma função chamada `number50Pct` que recebe um parâmetro chamado `val` do tipo `number` e retorna um `number` equivalente a 50% do valor do parâmetro;
 ```js
 8   => 4
 ```
