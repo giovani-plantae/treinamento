@@ -322,8 +322,8 @@ Faça uma função chamada `extractNumber` que recebe um parâmetro chamado `val
 #### cleanExtraSpaces
 Faça uma função chamada `cleanExtraSpaces` que recebe um parâmetro chamado `val` do tipo `string` com várias palavras separadas por um ou mais espaços e retorna uma `string` removendo excessos de espaços;
 ```js
-'Hello    World'                    => 'Hello World'
-'Plantae  Gestão      Agrícola'     => 'Plantae Gestão Agrícola'
+'  Hello    World '              => 'Hello World'
+'Plantae  Gestão      Agrícola'  => 'Plantae Gestão Agrícola'
 ```
  
 #### stringWrap
