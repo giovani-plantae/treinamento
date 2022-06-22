@@ -211,18 +211,24 @@ Faça uma função chamada `decreaseNumberBy10Pct` que recebe um parâmetro cham
 Faça uma função chamada `biggestNumber` que recebe dois parâmetros chamados `val1` e `val2` do tipo `number` e retorna um `number` que é o parâmetro de maior valor;
 ```js
 (10, 15)     => 15
+(30, 20)     => 30
+(12, 12)     => 12
 ```
  
 #### smallestNumber
 Faça uma função chamada `smallestNumber` que recebe dois parâmetros chamados `val1` e `val2` do tipo `number` e retorna um `number` que é o parâmetro de menor valor;
 ```js
 (10, 15)     => 10
+(60, 20)     => 20
+(50, 50)     => 50
 ```
  
 #### biggestNumberFrom3
 Faça uma função chamada `biggestNumberFrom3` que recebe três parâmetros chamados `val1`, `val2` e `val3` do tipo `number` e retorna um `number` que é o parâmetro de maior valor;
 ```js
 (10, 15, 20) => 20
+(30, 10, 20) => 30
+(30, 40, 10) => 40
 ```
  
 #### isPrime
