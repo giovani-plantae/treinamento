@@ -285,7 +285,7 @@ Faça uma função chamada `concatString` que recebe dois parâmetros chamados `
 #### countVowels
 Faça uma função chamada `countVowels` que recebe um parâmetro chamado `val` do tipo `string` e retorna um `number` com a contagem das vogais;
 ```js
-'test'      => 1
+'jpg'       => 0
 'ok'        => 1
 'Plantae'   => 3
 ```
