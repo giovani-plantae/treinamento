@@ -362,7 +362,7 @@ Faça uma função chamada `getArrayRange` que recebe dois parâmetros chamados 
 (4, -2) => [4, 3, 2, 1, 0, -1, -2]
 ```
  
-#### arraySum
+#### arraySumnumber
 Faça uma função chamada `arraySum` que recebe um parâmetro chamado `list` do tipo `array` e retorna um `number` que é a soma de todos os números do array, outros tipos além de números enviados junto com a lista devem ser ignorados e removidos do cálculo;
 ```js
 [1, 3, 4]      => 8
@@ -417,7 +417,7 @@ Faça uma função chamada `currentDate` que não recebe parâmetros e retorna a
 ```
  
 #### isLeapYear
-Faça uma função chamada `isLeapYear` que recebe um parâmetro chamado `date` do tipo `Date` e retorna um `boolean` indicando se o ano for bisexto;
+Faça uma função chamada `isLeapYear` que recebe um parâmetro chamado `year` do tipo `number` e retorna um `boolean` indicando se o ano for bisexto;
 ```js
 2022    => false
 2020    => true
