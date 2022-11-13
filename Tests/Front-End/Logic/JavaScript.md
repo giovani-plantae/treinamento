@@ -421,6 +421,6 @@ Faça uma função chamada `isLeapYear` que recebe um parâmetro chamado `year` 
 ```js
 2022    => false
 2020    => true
-1122    => true
+1122    => false
 400     => true
 ```
