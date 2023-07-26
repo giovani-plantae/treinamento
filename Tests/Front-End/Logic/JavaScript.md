@@ -14,14 +14,15 @@
 
 A estrutura do projeto deve seguir esse padrão:
 ```
-null/
-    is-null.js
-boolean/
-    is-boolean.js
-    boolean-response.js
-number/
-    is-number.js
-    is-between-10-and-20.js
+.
+├── null/
+│   └── is-null.js
+├── boolean/
+│   ├── is-boolean.js
+│   └── boolean-response.js
+└── number/
+    ├── is-number.js
+    └── is-between-10-and-20.js
 ```
 
 O arquivo js deve seguir esse padrão:
