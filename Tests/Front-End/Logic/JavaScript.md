@@ -313,8 +313,8 @@ Faça uma função chamada `concatString` que recebe dois parâmetros chamados `
 Faça uma função chamada `countVowels` que recebe um parâmetro chamado `val` do tipo `string` e retorna um `number` com a contagem das vogais;
 ```js
 'jpg'       => 0
-'ok'        => 1
 'Plantae'   => 3
+'Átomo'     => 3
 ```
  
 ### repeatString
@@ -422,7 +422,7 @@ Faça uma função chamada `groupByOddEven` que recebe um parâmetro chamado `li
 ```
  
 ### groupByInitials
-Faça uma função chamada `groupByInitials` que recebe um parâmetro chamado `list` do tipo `array` e retorna um `object` com as `strings` agrupadas pela letra inicial, outros tipos além de strings enviados junto com a lista devem ser ignorados e removidos;
+Faça uma função chamada `groupByInitials` que recebe um parâmetro chamado `list` do tipo `array` e retorna um `object` com as `strings` agrupadas pela letra inicial em caixa baixa (lowercase). Caso a letra inicial ser um caractere especial é necessário remover o acento. Outros tipos além de strings enviados junto com a lista devem ser ignorados e removidos;
 ```js
 ['Plantae', 'Gestão', 'Agrícola', 'Análise', 'Solo', 'Plantas', 'Armazenagem'] =>
 {
@@ -446,8 +446,9 @@ Faça uma função chamada `currentDate` que não recebe parâmetros e retorna a
 ### isLeapYear
 Faça uma função chamada `isLeapYear` que recebe um parâmetro chamado `year` do tipo `number` e retorna um `boolean` indicando se o ano for bisexto;
 ```js
-2022    => false
-2020    => true
-1122    => false
 400     => true
+1600    => true
+1800    => false
+2000    => true
+2200    => false
 ```
